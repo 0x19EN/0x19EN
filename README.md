@@ -3,13 +3,13 @@
 ## About Me
 - 👀 **Passionate about:** Coding & Cybersecurity
 - 🌱 **Currently learning:** Pentesting & Ethical Hacking
-- 💻 **Languages/Tech:** [Add your main languages here, e.g., Python, JavaScript, etc.]
+- 💻 **Languages/Tech:** [ Python, JavaScript, PHP, Bash etc.]
 - 🎯 **Goals:** Building secure applications and contributing to open source
 
 ## Let's Connect!
 - 💞️ **Open to collaborate on:** Development projects and tech articles on [dev.to](https://dev.to)
 - ☕ **Want to chat?** Buy me a coffee and let's be friends! 
-- 📫 **Reach me at:** [Add your contact - email, LinkedIn, Twitter, etc.]
+- 📫 **Reach me at:** [0x19EN@hotmail.com]
 
 ## Current Focus
 🔐 Diving deep into cybersecurity and ethical hacking  
